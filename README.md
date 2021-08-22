@@ -3,4 +3,4 @@ Definição do Problema Prever se alguém vai gostar de um filme com base no qua
 
 #Objetivos:  
 Prever a avaliação que um usuário daria a um filme que ainda não avaliou. 
-Minimizar a diferença entre a avaliação prevista e real (RMSE e MAPE).
+Minimizar a diferença entre a avaliação prevista e real (RMSE e MAPE)
